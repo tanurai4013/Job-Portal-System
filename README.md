@@ -27,6 +27,9 @@ The system provides secure authentication using **JWT** and follows REST API arc
 * Hibernate / JPA
 * JWT Authentication
 
+  ## 📫 Connect with me
+[https://www.linkedin.com/in/tanu-rai-sde/]
+
 **Database**
 
 * MySQL
